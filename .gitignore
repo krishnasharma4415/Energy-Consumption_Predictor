@@ -1,0 +1,10 @@
+Decision_Tree_model.pkl
+Gradient_Boosting_model.pkl
+KNN_model.pkl
+LightGBM_model.pkl
+Linear_Regression_model.pkl
+Random_Forest_model.pkl
+Ridge_Regression_model.pkl
+XGBoost_model.pkl
+SVR_model.pkl
+scaler.pkl
